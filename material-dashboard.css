@@ -1,0 +1,712 @@
+body 
+{
+    background-color:#f2f2f2; 
+    overflow-x: hidden; 
+
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+.top_menu 
+{
+  
+  height:90px;
+  background-color:#374550;
+}
+.navbar-collapse
+{
+    height:40px;
+}
+.faq_img
+{
+    cursor: pointer;
+    height:35px;
+}
+.privacy_policy_img
+{
+    cursor: pointer;
+    height:35px;
+}
+.legal_img
+{
+    cursor:pointer;
+    height:35px;
+}
+.query_img
+{
+    cursor: pointer;
+    height:25px;
+}
+.support_img
+{
+    cursor:pointer;
+    height:35px;
+}
+.testimonial_img
+{
+    cursor:pointer;
+    height:35px;
+}
+
+.user_img
+{
+    height:40px;
+    cursor:pointer;
+}
+.user_img_right
+{
+    height:35px;
+
+}
+
+.user_text
+{
+    color:grey;
+    margin-top: 38px;
+    float:right;
+    margin-right: 50px;
+   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+.login_img
+{
+ height:40px;
+    margin-top: 25px;
+     float:right;  
+}
+
+.login_img_right
+{
+    height:35px;
+   float: right;
+   /* margin-top: -98px;*/
+   margin-top: 25px;
+   margin-right: -160px;
+}
+
+span
+{
+    color:grey;
+    padding-left: 20px;
+}
+
+.leftmenu {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    background-color:#374550;
+   /* box-shadow: 0 20px 30px -12px black;*/
+   box-shadow: 11px -12px 30px -12px black;
+}
+
+ol
+{
+    margin-bottom: 29px;
+}
+
+.leftmenu .nav{
+    margin-top: 20px;
+}
+
+.leftmenu .nav ol>a {
+    margin: 10px 15px 0;
+   /* border-radius: 3px;
+    color: #3C4858;*/
+}
+
+
+
+
+.leftmenu .logo{
+    position: relative;
+    padding: 15px 38px;
+    z-index: 4;
+}
+
+
+.leftmenu.logo {
+    text-transform: uppercase;
+    padding: 5px 0px;
+    display: block;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.leftmenu  {
+   /* border-radius: 50%; */
+    border: 1px solid #333;
+    display: block;
+    height: 61px;
+    width: 61px;
+    float: left;
+    overflow: hidden;
+}
+
+
+.leftmenu  {
+    width: 260px;
+    height: 100%;
+}
+
+
+body {
+    background-color: #EEEEEE;
+    color: #3C4858;
+}
+
+body
+ {
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 300;
+    line-height: 1.5em;
+}
+
+.serif-font {
+    font-family: "Roboto Slab", "Times New Roman", serif;
+}
+
+.page-header {
+    height: 60vh;
+    background-position: center center;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.form-group
+{
+    margin-top: 28px;
+    margin-left: -200px;
+}
+.form-control
+{
+    background-color:#374550;
+    border:0px;
+
+    width:150px;
+}
+
+.form-control1
+{
+    background-color:white;
+    border:0px;
+
+    width:150px;
+}
+.search_img
+{
+    height:20px;
+     margin-left: 30px;
+}
+.search_img_top
+{
+    margin-top: 32px;
+
+}
+.card
+{
+    margin-top: 0px;
+    margin-left: -190px;
+}
+.card1
+{
+    margin-top: -30px;
+    margin-left: -190px;
+}
+
+.card2
+{
+    margin-top: -30px;
+    margin-left: -190px;
+}
+
+.card4
+{
+    margin-top: -30px;
+    margin-left: -190px;
+}
+
+.view_img
+{
+    cursor: pointer;
+    height:15px;
+}
+.view_img1
+{
+    cursor: pointer;
+    height:15px;
+    margin-right:10px; 
+}
+.edit_img
+{
+    cursor: pointer;
+    height:15px;
+    padding-left:5px;
+}
+.edit_img1
+{
+    cursor: pointer;
+    height:15px;
+    padding-left:5px;
+}
+.delete_img
+{
+    cursor: pointer;
+    height:15px;
+    margin-left: 5px;
+}
+.add_color
+{
+    background-color: #ffc114;
+    color:white;
+}
+.Faq-add-lable
+{
+    margin-top: -81px;
+    margin-left: 270px;
+ 
+}
+.legal-add-lable{
+    margin-top: -10px;
+    margin-left: 300px;
+}
+
+
+#legal-label
+{
+     margin-top: -81px;
+    float:right;
+    margin-right:80px; 
+}
+
+.testimonial-add-lable
+{
+    margin-top: -81px;
+    margin-left: 270px;
+    
+ 
+}
+
+.save_button
+{
+    color:white;
+    margin-right: 224px;
+}
+
+.modal-title
+{
+    text-align: center;
+}
+.form-control1
+{
+    width:60%;
+    margin-left: 150px;
+    background-color: #374550;
+    border:none;
+    color:white;
+}
+
+.form-control2
+{
+    
+    background-color:#fafafa ;
+    border:none;
+    color:black;
+    margin-left:-50px;
+    margin-top: 25px;
+    border-radius: 4px;
+    width:350px;
+    height:50px;
+}
+
+.form-control3
+{
+    background-color:#cfd0d2;
+    border:none;
+    color:black;
+    margin-left:-50px;
+    margin-top: 25px;
+    border-radius: 4px;
+    width:350px;
+    height:50px;
+}
+.form-control4
+{
+  background-color:#cfd0d2;
+    border:none;
+    color:black;
+    margin-left:-50px;
+    margin-top: 25px;
+    border-radius: 4px;
+    width:350px;
+    height:50px;   
+}
+.form-control5
+{
+    background-color:#cfd0d2;
+    border:none;
+    color:black;
+    margin-left:-50px;
+    margin-top: 25px;
+    border-radius: 4px;
+    width:350px;
+    height:50px;      
+}
+
+.form_cancel_submit
+{
+    margin-right: 43px;
+    float:right;
+
+}
+.submit_text_form
+{
+    margin-left: 40px;
+}
+.designation_text
+{
+    margin-left: -60px;
+    margin-top: 43px;
+    font-weight: bold;
+}
+
+.name_text
+{
+    margin-left: -60px;
+    margin-top: 43px;
+    font-weight: bold;
+}
+.location_text
+{
+    margin-left: -60px;
+    margin-top: 50px;
+    font-weight: bold;   
+}
+
+.testimonial_text
+{
+    margin-left: -60px;
+    margin-top: 50px;
+    font-weight: bold;  
+}
+.live_text
+{
+    margin-left: -60px;
+    margin-top: 60px;
+    font-weight: bold;
+}
+.radio_button
+{
+    margin-top: 20px;
+    margin-left: -50px;
+}
+.form-control
+{
+    width:60%;
+    margin-left: 250px;
+}
+.yes_text
+{
+    font-family: arial;
+
+}
+.question_text
+{
+    margin-left:250px;
+}
+
+.answer_text
+{
+    margin-left: 250px;
+}
+#submit_text
+{
+    margin-left:230px ;
+    color:white;
+    font-family: arial;
+    background-color: #e9b319;
+}
+#submit_text1
+{
+    margin-left:230px ;
+    color:white;
+    font-family: arial;
+    background-color: #e9b319;
+}
+.modal-header
+{
+    background-color: #374550;
+    color:white;
+}
+.form_color
+{
+    background-color:#ebecee;
+}
+.no_text
+{
+    margin-left: 50px;
+}
+input[type='radio']:after {
+        width: 15px;
+        height: 15px;
+        border-radius: 15px;
+        background-color: #d1d3d1;
+        content: '';
+        display: inline-block;
+        visibility: visible;
+        border: 1px solid black;
+    }
+
+    input[type='radio']:checked:after {
+        width: 15px;
+        height: 15px;
+        border-radius: 15px;
+        background-color: #ffa500;
+        content: '';
+        display: inline-block;
+        visibility: visible;
+        border: 2px solid #ffa500 ;
+    }
+
+.close
+{
+    height:20px;
+    margin-top: 10px;
+}
+.modal-dialog
+{
+    margin-top: 50px;
+}
+.login_page
+{
+    margin-left:200px;
+    margin-top: 100px;
+}
+.user_name
+{
+    border:none;
+    width:500px;
+    height:35px;
+    padding-left: 20px;
+    background-color: #dfe0e2;
+    border-radius: 5px;
+}
+.form_color
+{
+    background-color: #ffc114;
+    color:grey;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.logo_mdimg
+{
+    margin-left:380px;
+    margin-bottom: 50px;
+}
+.forgot-password
+{
+    margin-left: 160px;
+    margin-top: 20px;
+}
+a{
+    text-decoration:none;
+    color:grey;
+}
+.testimonial_division
+{
+    width:700px;
+    height:auto;
+    /*border:1px solid black;*/
+    background-color: #dfe0e2;
+}
+.testimonial_image
+{
+   height:120px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.add_image_text
+{
+    margin-left: 28px;
+    margin-top: 20px;
+}
+.add_text_image
+{
+    color:black;
+    font-weight: bold;
+}
+
+th{
+    color:#828b91;
+}
+.navigation_text
+{
+   margin-right: -90px;
+}
+.pagination:hover
+{
+    background-color: #828b91
+}
+/*span
+{
+    color:grey;
+}*/
+
+
+
+.box_side1
+{
+    /*width:20px;*/
+    height:28px;
+    /*border:1px solid red;*/
+    background-color: white;
+    float:right;
+}.box_side2
+{
+    /*width:20px;*/
+    height:28px;
+    /*border:1px solid red;*/
+    background-color: white;
+    float:right;
+}
+.box_side3
+{
+    /*width:20px;*/
+    height:28px;
+    /*border:1px solid red;*/
+    background-color: white;
+    float:right;
+}
+.box_side4
+{
+    /*width:20px;*/
+    height:28px;
+    /*border:1px solid red;*/
+    background-color: white;
+    float:right;
+}
+#myInput
+{
+   /* margin-left: 900px;*/
+    background-color: #eee;
+    
+    color:#828b91;
+     border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid grey;
+}
+
+#myInput1
+{
+   margin-left: 900px;
+    background-color: #eee;
+    
+    color:#828b91;
+     border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid grey;
+}
+#myInput:hover
+{
+ border-bottom: 1px solid #ffc114;   
+}
+
+#myInput1:hover
+{
+ border-bottom: 1px solid #ffc114;   
+}
+
+
+.title_model1
+{
+    margin-left: 240px;
+    font-size: 15px;
+}
+
+
+.faq_dashboard
+{
+    margin-bottom: 20px;
+    margin-left: 45px;
+    cursor:pointer;
+}
+.users_dashboard,.legal_dashboard,.testimonial_dashboard
+{
+    margin-bottom: 20px;
+    margin-left: 45px;
+    cursor: pointer;
+}
+
+
+div>a
+{
+    text-decoration: none;
+}
+
+/*mozilla browse*/
+
+@-moz-document url-prefix()   {
+
+
+.Faq-add-lable
+{
+    margin-top: 25px;
+}
+
+}
+
+.h{
+    cursor:pointer;
+}
+
+a{
+    text-decoration: none;
+}
+
+.data_class
+{ 
+  cursor:pointer;  
+}
+
+
+user_view_image1
+{
+    height:50px;
+}
+.view_name,.view_email,.view_contact_no
+{
+    padding-top: 30px;
+   padding-bottom: 8px;
+   color:#f0b817
+ 
+}
+.left_divi,.right_divi
+{
+    margin-top: 20px;
+}
+.m_id,.member_id
+{
+    
+    padding-bottom: 15px; 
+    color:#f0b817;
+
+}
+.records,.g_reminder,.mem-reminder
+{
+    padding-bottom: 15px;
+    color:#f0b817;
+}
